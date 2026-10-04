@@ -101,7 +101,7 @@
     "@bazel/worker": "5.8.1",
     "@biomejs/biome": "1.4.1",
     "@firebase/app-types": "^0.7.0",
-    "@grpc/grpc-js": "1.8.22",
+    "@grpc/grpc-js": "1.13.6",
     "@material/animation": "15.0.0-canary.7f224ddd4.0",
     "@material/auto-init": "15.0.0-canary.7f224ddd4.0",
     "@material/banner": "15.0.0-canary.7f224ddd4.0",
